@@ -13,4 +13,9 @@
 
 <----------- multiple_pdf Q/NA Chatbot  GUI ---------------------------------->
 
-![multipdf_gui](https://github.com/user-attachments/assets/804c489c-9079-4eaa-bc6a-998f2cb6bf3d)
+
+
+![multipdf_gui](https://github.com/user-attachments/assets/a4f46182-da9a-4f67-93e6-6f59910f5a70)
+<--output-->
+![multipdf_output](https://github.com/user-attachments/assets/e97f9cfa-f1f8-49ea-835b-ebb445ce01fc)
+![multipdff_outpot1](https://github.com/user-attachments/assets/8db02360-8c49-4173-b808-62ee7ddc57f5)
